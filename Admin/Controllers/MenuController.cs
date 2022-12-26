@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Admin.Models;
 using Admin.Data;
+using System.Security.Principal;
 
 namespace Admin.Controllers
 {
@@ -54,7 +55,7 @@ namespace Admin.Controllers
                 return NotFound();
             }
             return View(account);
-        }
+        } 
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Update(int id, [Bind("Id,Name,Role,Username,Password,ProfilePicture")] Account account)
@@ -81,7 +82,7 @@ namespace Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));  
             }
             return View(account);
         }
@@ -118,6 +119,86 @@ namespace Admin.Controllers
         private bool AccountExists(int id)
         {
             return _context.Accounts.Any(e => e.Id == id);
+        }
+
+        public async Task<IActionResult> CheckReq()
+        {
+            var categoryReqs = from c in _context.CategoryReqs select c;
+            return View(await categoryReqs.ToListAsync());
+        }
+
+        public async Task<IActionResult> Accept(int? id)
+        {
+            if (id == null || _context.CategoryReqs == null)
+            {
+                return NotFound();
+            }
+            var categoryReq = await _context.CategoryReqs.FindAsync(id);
+            if (categoryReq == null)
+            {
+                return NotFound();
+            }
+            return View(categoryReq);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Accept(int id, [Bind("Id, Name, Req")] CategoryReq categoryReq, Book book)
+        {
+            //var Req = await _context.CategoryReqs.FindAsync(id);
+            //Req = await _context.Books.FindAsync(id);
+
+            if (id != categoryReq.Id)
+            {
+                return NotFound();
+            }
+            try
+            {
+                _context.Update(categoryReq);
+                _context.Add(book);
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (categoryReq == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+            return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Decline(int? id)
+        {
+            if (id == null || _context.CategoryReqs == null)
+            {
+                return NotFound();
+            }
+            var categoryReq = await _context.CategoryReqs.FirstOrDefaultAsync(a => a.Id == id);
+            if (categoryReq == null)
+            {
+                return NotFound();
+            }
+            return View(categoryReq);
+        }
+        [HttpPost, ActionName("Decline")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeclineConfirmed(int id)
+        {
+            if (_context.CategoryReqs == null)
+            {
+                return Problem("Entity set 'FPTBookStore.Account' is null.");
+            }
+            var categoryReq = await _context.CategoryReqs.FindAsync(id);
+            if (categoryReq != null)
+            {
+                _context.CategoryReqs.Remove(categoryReq);
+            }
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }

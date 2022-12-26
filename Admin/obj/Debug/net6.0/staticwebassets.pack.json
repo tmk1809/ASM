@@ -1,491 +1,491 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
       "PackagePath": "staticwebassets\\Admin.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\100603521_1575041075993915_1549680692101644288_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\100603521_1575041075993915_1549680692101644288_n.jpg",
       "PackagePath": "staticwebassets\\images\\100603521_1575041075993915_1549680692101644288_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\100799852_2529078097404907_8394036001143521280_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\100799852_2529078097404907_8394036001143521280_n.jpg",
       "PackagePath": "staticwebassets\\images\\100799852_2529078097404907_8394036001143521280_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\100873570_274032484004473_236970250711597056_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\100873570_274032484004473_236970250711597056_o.jpg",
       "PackagePath": "staticwebassets\\images\\100873570_274032484004473_236970250711597056_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\101175901_1103645886677192_7534043648514588672_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\101175901_1103645886677192_7534043648514588672_n.jpg",
       "PackagePath": "staticwebassets\\images\\101175901_1103645886677192_7534043648514588672_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\102318831_149119810017668_7357732307551125504_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\102318831_149119810017668_7357732307551125504_n.jpg",
       "PackagePath": "staticwebassets\\images\\102318831_149119810017668_7357732307551125504_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\104428748_175240223956468_7711745369689500249_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\104428748_175240223956468_7711745369689500249_n.jpg",
       "PackagePath": "staticwebassets\\images\\104428748_175240223956468_7711745369689500249_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\10530888_713707241998304_1597751436535436094_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\10530888_713707241998304_1597751436535436094_n.jpg",
       "PackagePath": "staticwebassets\\images\\10530888_713707241998304_1597751436535436094_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\11174370_1428136217491423_4985930315533666249_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\11174370_1428136217491423_4985930315533666249_o.jpg",
       "PackagePath": "staticwebassets\\images\\11174370_1428136217491423_4985930315533666249_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\117387017_759870334762171_2356621649034304469_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\117387017_759870334762171_2356621649034304469_n.jpg",
       "PackagePath": "staticwebassets\\images\\117387017_759870334762171_2356621649034304469_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\120009825_341667237248208_7393250326081308813_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\120009825_341667237248208_7393250326081308813_n.jpg",
       "PackagePath": "staticwebassets\\images\\120009825_341667237248208_7393250326081308813_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\120260499_855365931873217_530094489647597414_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\120260499_855365931873217_530094489647597414_n.jpg",
       "PackagePath": "staticwebassets\\images\\120260499_855365931873217_530094489647597414_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\121016012_2820362298234694_1619704415991215070_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\121016012_2820362298234694_1619704415991215070_n.jpg",
       "PackagePath": "staticwebassets\\images\\121016012_2820362298234694_1619704415991215070_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\121105150_2646317249013372_5934509201100464309_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\121105150_2646317249013372_5934509201100464309_n.jpg",
       "PackagePath": "staticwebassets\\images\\121105150_2646317249013372_5934509201100464309_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\121114658_2676836409298276_3901925712115298530_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\121114658_2676836409298276_3901925712115298530_n.jpg",
       "PackagePath": "staticwebassets\\images\\121114658_2676836409298276_3901925712115298530_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\121689777_2497660353859916_6190702505136930528_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\121689777_2497660353859916_6190702505136930528_n.jpg",
       "PackagePath": "staticwebassets\\images\\121689777_2497660353859916_6190702505136930528_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\121884830_350684596241498_4449193846785712105_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\121884830_350684596241498_4449193846785712105_n.jpg",
       "PackagePath": "staticwebassets\\images\\121884830_350684596241498_4449193846785712105_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\122721893_191806325796259_5962533704090139480_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\122721893_191806325796259_5962533704090139480_n.jpg",
       "PackagePath": "staticwebassets\\images\\122721893_191806325796259_5962533704090139480_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\123708867_654376015249573_7421101802387876209_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\123708867_654376015249573_7421101802387876209_n.jpg",
       "PackagePath": "staticwebassets\\images\\123708867_654376015249573_7421101802387876209_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\126625184_1768797203277853_4660659209682480047_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\126625184_1768797203277853_4660659209682480047_n.jpg",
       "PackagePath": "staticwebassets\\images\\126625184_1768797203277853_4660659209682480047_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\127813715_1768797253277848_7561739635197505147_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\127813715_1768797253277848_7561739635197505147_n.jpg",
       "PackagePath": "staticwebassets\\images\\127813715_1768797253277848_7561739635197505147_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\131239752_451357519193631_524550065907655001_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\131239752_451357519193631_524550065907655001_n.jpg",
       "PackagePath": "staticwebassets\\images\\131239752_451357519193631_524550065907655001_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\131929677_384350209334963_7157368936169036337_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\131929677_384350209334963_7157368936169036337_n.jpg",
       "PackagePath": "staticwebassets\\images\\131929677_384350209334963_7157368936169036337_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\133274300_1087334441737449_7002695296104560770_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\133274300_1087334441737449_7002695296104560770_n.jpg",
       "PackagePath": "staticwebassets\\images\\133274300_1087334441737449_7002695296104560770_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\133546855_1828290347347216_206409943887499137_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\133546855_1828290347347216_206409943887499137_n.jpg",
       "PackagePath": "staticwebassets\\images\\133546855_1828290347347216_206409943887499137_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\133810419_434330971083115_5964303487059896008_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\133810419_434330971083115_5964303487059896008_o.jpg",
       "PackagePath": "staticwebassets\\images\\133810419_434330971083115_5964303487059896008_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\135462173_1325752374490180_1660832032444807141_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\135462173_1325752374490180_1660832032444807141_o.jpg",
       "PackagePath": "staticwebassets\\images\\135462173_1325752374490180_1660832032444807141_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\136161889_435938014255744_4338596486108560364_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\136161889_435938014255744_4338596486108560364_o.jpg",
       "PackagePath": "staticwebassets\\images\\136161889_435938014255744_4338596486108560364_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\137605622_1978486895627281_7767212950656086570_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\137605622_1978486895627281_7767212950656086570_n.jpg",
       "PackagePath": "staticwebassets\\images\\137605622_1978486895627281_7767212950656086570_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\139643662_112394257459103_8029856793085803133_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\139643662_112394257459103_8029856793085803133_n.jpg",
       "PackagePath": "staticwebassets\\images\\139643662_112394257459103_8029856793085803133_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\140275733_495626121403771_3925080312529333683_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\140275733_495626121403771_3925080312529333683_n.jpg",
       "PackagePath": "staticwebassets\\images\\140275733_495626121403771_3925080312529333683_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\140865563_232982088374230_5658325140928575636_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\140865563_232982088374230_5658325140928575636_n.jpg",
       "PackagePath": "staticwebassets\\images\\140865563_232982088374230_5658325140928575636_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\1414971_1567463746815760_8405768620321637178_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\1414971_1567463746815760_8405768620321637178_o.jpg",
       "PackagePath": "staticwebassets\\images\\1414971_1567463746815760_8405768620321637178_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\142350467_418757272571309_4904887040946136447_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\142350467_418757272571309_4904887040946136447_o.jpg",
       "PackagePath": "staticwebassets\\images\\142350467_418757272571309_4904887040946136447_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\142800825_232982038374235_2468421522322723191_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\142800825_232982038374235_2468421522322723191_n.jpg",
       "PackagePath": "staticwebassets\\images\\142800825_232982038374235_2468421522322723191_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\142830432_417988429314860_9185794678191717921_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\142830432_417988429314860_9185794678191717921_n.jpg",
       "PackagePath": "staticwebassets\\images\\142830432_417988429314860_9185794678191717921_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\143491326_455576965810800_5001829426728742354_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\143491326_455576965810800_5001829426728742354_n.jpg",
       "PackagePath": "staticwebassets\\images\\143491326_455576965810800_5001829426728742354_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\155049855_1086410961830973_7912256833601986822_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\155049855_1086410961830973_7912256833601986822_n.jpg",
       "PackagePath": "staticwebassets\\images\\155049855_1086410961830973_7912256833601986822_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\155430588_188838789700760_6719406305810723192_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\155430588_188838789700760_6719406305810723192_n.jpg",
       "PackagePath": "staticwebassets\\images\\155430588_188838789700760_6719406305810723192_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\155563173_1892326307585516_9177408126571881535_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\155563173_1892326307585516_9177408126571881535_o.jpg",
       "PackagePath": "staticwebassets\\images\\155563173_1892326307585516_9177408126571881535_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\156327134_257222229264293_1252501999164679284_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\156327134_257222229264293_1252501999164679284_o.jpg",
       "PackagePath": "staticwebassets\\images\\156327134_257222229264293_1252501999164679284_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\156549150_423274165444991_8405943152642055809_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\156549150_423274165444991_8405943152642055809_n.jpg",
       "PackagePath": "staticwebassets\\images\\156549150_423274165444991_8405943152642055809_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\159795666_256533932788276_2888404336593449379_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\159795666_256533932788276_2888404336593449379_o.jpg",
       "PackagePath": "staticwebassets\\images\\159795666_256533932788276_2888404336593449379_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\169936336_1384235455267522_8894199959153300860_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\169936336_1384235455267522_8894199959153300860_n.jpg",
       "PackagePath": "staticwebassets\\images\\169936336_1384235455267522_8894199959153300860_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\178091509_524187148592136_1163751230489734300_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\178091509_524187148592136_1163751230489734300_n.jpg",
       "PackagePath": "staticwebassets\\images\\178091509_524187148592136_1163751230489734300_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\22853044_1742826075758551_5530924563793548501_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\22853044_1742826075758551_5530924563793548501_n.jpg",
       "PackagePath": "staticwebassets\\images\\22853044_1742826075758551_5530924563793548501_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\274161537_649981706267692_2116710183324955298_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\274161537_649981706267692_2116710183324955298_n.jpg",
       "PackagePath": "staticwebassets\\images\\274161537_649981706267692_2116710183324955298_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\274470310_668746640831531_7683087196058357651_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\274470310_668746640831531_7683087196058357651_n.jpg",
       "PackagePath": "staticwebassets\\images\\274470310_668746640831531_7683087196058357651_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\3kyfn6.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\3kyfn6.jpg",
       "PackagePath": "staticwebassets\\images\\3kyfn6.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\79490579_2637164659937681_2214948019327991808_o.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\79490579_2637164659937681_2214948019327991808_o.jpg",
       "PackagePath": "staticwebassets\\images\\79490579_2637164659937681_2214948019327991808_o.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\87038167_1048880325484175_428731375017787392_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\87038167_1048880325484175_428731375017787392_n.jpg",
       "PackagePath": "staticwebassets\\images\\87038167_1048880325484175_428731375017787392_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\99140435_2797503693692106_1217032842211491840_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\99140435_2797503693692106_1217032842211491840_n.jpg",
       "PackagePath": "staticwebassets\\images\\99140435_2797503693692106_1217032842211491840_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\99150382_2373389886293021_4517395805354590208_n.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\99150382_2373389886293021_4517395805354590208_n.jpg",
       "PackagePath": "staticwebassets\\images\\99150382_2373389886293021_4517395805354590208_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\IMG_7769.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\IMG_7769.jpg",
       "PackagePath": "staticwebassets\\images\\IMG_7769.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\image2-1614929526-785-width644height405.png",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\image2-1614929526-785-width644height405.png",
       "PackagePath": "staticwebassets\\images\\image2-1614929526-785-width644height405.png"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\maxresdefault.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\maxresdefault.jpg",
       "PackagePath": "staticwebassets\\images\\maxresdefault.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\mu-bao-hiem-vnexpress-net-3-3945-1493699252.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\mu-bao-hiem-vnexpress-net-3-3945-1493699252.jpg",
       "PackagePath": "staticwebassets\\images\\mu-bao-hiem-vnexpress-net-3-3945-1493699252.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\snapchat_2.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\snapchat_2.jpg",
       "PackagePath": "staticwebassets\\images\\snapchat_2.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\snapchat_6.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\snapchat_6.jpg",
       "PackagePath": "staticwebassets\\images\\snapchat_6.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\snapvid_1.mp4",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\snapvid_1.mp4",
       "PackagePath": "staticwebassets\\images\\snapvid_1.mp4"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\tải xuống.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\tải xuống.jpg",
       "PackagePath": "staticwebassets\\images\\tải xuống.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\images\\xmf9q2bc6o051.jpg",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\images\\xmf9q2bc6o051.jpg",
       "PackagePath": "staticwebassets\\images\\xmf9q2bc6o051.jpg"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

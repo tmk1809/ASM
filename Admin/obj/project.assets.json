@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\Admin.csproj",
+      "projectUniqueName": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\Admin.csproj",
       "projectName": "Admin",
-      "projectPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\Admin.csproj",
+      "projectPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\Admin.csproj",
       "packagesPath": "C:\\Users\\Khoi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\Admin\\obj\\",
+      "outputPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Khoi\\AppData\\Roaming\\NuGet\\NuGet.Config",

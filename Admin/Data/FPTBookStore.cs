@@ -9,6 +9,7 @@ namespace Admin.Data
     {
         public FPTBookStore(DbContextOptions<FPTBookStore> options) : base(options) { }
         public DbSet<Account> Accounts { get; set; }
-
+        public DbSet<CategoryReq> CategoryReqs { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }
