@@ -13,3 +13,4 @@ namespace Admin.Data
         public DbSet<Book> Books { get; set; }
     }
 }
+
