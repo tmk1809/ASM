@@ -2013,19 +2013,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Khoi\\.nuget\\packages\\": {}
+    "C:\\Users\\kien0\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\Admin.csproj",
+      "projectUniqueName": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Admin\\Admin.csproj",
       "projectName": "Admin",
-      "projectPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\Admin.csproj",
-      "packagesPath": "C:\\Users\\Khoi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khoi\\Desktop\\ASP\\Admin\\ASM\\Admin\\obj\\",
+      "projectPath": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Admin\\Admin.csproj",
+      "packagesPath": "C:\\Users\\kien0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Khoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kien0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2079,6 +2079,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x86",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2087,7 +2105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

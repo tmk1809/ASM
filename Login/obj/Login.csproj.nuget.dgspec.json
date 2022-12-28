@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kien0\\source\\repos\\Login\\Login.csproj": {}
+    "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Login\\Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kien0\\source\\repos\\Login\\Login.csproj": {
+    "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kien0\\source\\repos\\Login\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "C:\\Users\\kien0\\source\\repos\\Login\\Login.csproj",
+        "projectPath": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\kien0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kien0\\source\\repos\\Login\\obj\\",
+        "outputPath": "C:\\Users\\kien0\\OneDrive\\Documents\\Workspace\\ASM\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kien0\\AppData\\Roaming\\NuGet\\NuGet.Config",
